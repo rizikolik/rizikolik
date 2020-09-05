@@ -1,22 +1,18 @@
-### Hi there 👋
+# Hi! I am Yunus 👋
 
-
-
-- 🔭 I’m currently working on  
+- 🔭 I’m currently working remotely as a full stack developer
 - 🌱 I’m currently learning ...Rails
-- 👯 I’m looking to collaborate on Rails  and MERN 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ynsture@gmail.com
-- 😄 Pronouns: ...
+- 👯 I’m looking to collaborate on Rails and MERN
 
-# Hi! I am Yunus,
+- 💬 Ask me about anything
+- 📫 How to reach me: ynsture@gmail.com
+-
+
 ## Currently i work as a remote full stack developer for an Italian company.
-### You can react me with  :
-#### ynsture@gmail.com
 
 #### My stacks are :
 
+<div style="display:inline">
  <img height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img   height=40
       src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
@@ -33,7 +29,5 @@
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
   <img  height=40 src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png">
    <img  height=40 src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-
-
-
+</div>
 
