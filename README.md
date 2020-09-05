@@ -1,14 +1,14 @@
 # Hi! I am Yunus 👋
 
-- 🔭 I’m currently working remotely as a full stack developer
-- 🌱 I’m currently learning ...Rails
+- 🔭 I’m a full stack developer who loves to learn new technologies .
+- 🌱 I’m currently learning ...Rails 
 - 👯 I’m looking to collaborate on Rails and MERN
 
 - 💬 Ask me about anything
 - 📫 How to reach me: ynsture@gmail.com
 -
 
-## Currently i work as a remote full stack developer for an Italian company.
+## Currently i work remotely for an Italian company.
 
 #### My stacks are :
 
