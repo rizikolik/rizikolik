@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Rails and MERN
 - 💬 Ask me about anything
 - 📫 How to reach me: ynsture@gmail.com
-- I am a fan of remote work.
+- I am a fan of remote work.<br/>
 ![](https://komarev.com/ghpvc/?username=rizikolik)
 
 
