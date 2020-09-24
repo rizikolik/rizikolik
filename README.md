@@ -6,6 +6,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: ynsture@gmail.com
 - I am a fan of remote work.
+![](https://komarev.com/ghpvc/?username=rizikolik)
 
 
 #### My stacks are :
