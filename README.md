@@ -2,8 +2,8 @@
 
 - 🔭 I’m a full stack developer who loves to learn new technologies .
 - 🌱 I’m currently learning ...Rails 
-- 👯 I’m looking to collaborate on Rails and MERN
-- 💬 Ask me about anything
+- 👯 I would love to collaborate on Rails and MERN
+- 💬 You can ask me about MERN and Ruby
 - 📫 How to reach me: ynsture@gmail.com
 - I am a fan of remote work.<br/>
 ![](https://komarev.com/ghpvc/?username=rizikolik)
