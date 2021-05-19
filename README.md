@@ -1,11 +1,8 @@
 # Hi! I am Yunus 👋
 
-- 🔭 I’m a full stack developer who loves to learn new technologies .
-- 🌱 I’m currently learning ...Rails 
-- 👯 I would love to collaborate on Rails and MERN
-- 💬 You can ask me about MERN and Ruby
+- 🔭 I’m a full stack developer who loves to learn new technologies . 
+- 👯 I would love to collaborate on  MERN
 - 📫 How to reach me: ynsture@gmail.com
-- I am a fan of remote work.<br/>
 ![](https://komarev.com/ghpvc/?username=rizikolik)
 
 
