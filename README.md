@@ -16,7 +16,7 @@
     <img   height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
     <img height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/600px-Unofficial_JavaScript_logo_2.svg.png">
-    <img  height=40 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-yefeo&psig=AOvVaw200MStK_T1ZKi9gCw8ncQU&ust=1650005988069000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPC63Lj9kvcCFQAAAAAdAAAAABAD">
+    <img  height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png">
     <img  height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="SQL" alt="SQL" height=40
       src="https://e7.pngegg.com/pngimages/614/744/png-clipart-mysql-database-mariadb-dolphin-marine-mammal-animals.png">
